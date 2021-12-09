@@ -1,4 +1,5 @@
 ### Hi there 👋
+### DevOps와 백엔드에 관심이 있어용
 
 <!--
 **kim1387/kim1387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
