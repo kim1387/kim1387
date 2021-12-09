@@ -23,3 +23,16 @@ Here are some ideas to get you started:
  </div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 
+<h2>⚡사용해본 경험이 있어용</h2>
+<div>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
+</div>
+<div>  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</div>
+<div>  
+  <img src="https://img.shields.io/badge/Apache RocketMQ-D77310?style=flat-square&logo=Apache RocketMQ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+</div>
