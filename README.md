@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 </div>
 <div>  
   <img src="https://img.shields.io/badge/Apache RocketMQ-D77310?style=flat-square&logo=Apache RocketMQ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
 </div>
