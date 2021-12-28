@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
 </div>
 <h2>⚡블로그</h2>
-[Notion](https://romantic-dracopelta-77a.notion.site/WEB-d60cbfae7e3b4d848f623f06e99eacdf)
+<a href="https://romantic-dracopelta-77a.notion.site/WEB-d60cbfae7e3b4d848f623f06e99eacdf">Notion</a>
