@@ -36,9 +36,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
 </div>
 <div>  
-  <img src="https://img.shields.io/badge/Apache RocketMQ-D77310?style=flat-square&logo=Apache RocketMQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> -->
 </div>
 <h2>⚡블로그</h2>
 <a href="https://ce19f003.notion.site/WEB-d60cbfae7e3b4d848f623f06e99eacdf">Notion</a>
