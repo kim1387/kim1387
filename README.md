@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![kim1387's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim1387&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim1387&layout=compact&themes=buefy)
+ </div>
 <h2>⚡Languages</h2>
 <div>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
